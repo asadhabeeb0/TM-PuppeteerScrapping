@@ -1,0 +1,16 @@
+{
+  "name": "portfolioscrappuppeteer",
+  "version": "1.0.0",
+  "description": "NodeJS library for Web Scraping",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.5.0"
+  }
+}
